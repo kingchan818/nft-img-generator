@@ -1,0 +1,12 @@
+{
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+    "rules": {
+        "no-console": "warn"
+    },
+    "env": {
+        "es6": true
+    }
+    // "extends": ["airbnb", "airbnb/hooks"]
+}
